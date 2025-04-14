@@ -13,9 +13,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\EF05\" />
-    <Folder Include="Services\EF02DbFirst\" />
-  </ItemGroup>
-
 </Project>
